@@ -8,26 +8,39 @@ Welcome to my **CAD Portfolio**! This repository showcases my engineering design
 
 Explore the `Nx` folder for full part files and details.
 
-### 1. Design Example 1
-<p align="center">
+### 1. Example 1
+<div align="center">
   <img src="Nx/images/Example%201.jpg" alt="Example 1" width="800">
-  <br>
-  <em><a href="Nx/Example%201.prt">⬇️ Download Part File</a></em>
-</p>
+  <p>
+    <a href="Nx/Example%201.prt">
+      <img src="https://img.shields.io/badge/Download-Part_File-blue?style=for-the-badge&logo=siemens" alt="Download Part File">
+    </a>
+  </p>
+</div>
 
-### 2. Design Example 2
-<p align="center">
+---
+
+### 2. Example 2
+<div align="center">
   <img src="Nx/images/Example%202.jpg" alt="Example 2" width="800">
-  <br>
-  <em><a href="Nx/Example%202.prt">⬇️ Download Part File</a></em>
-</p>
+  <p>
+    <a href="Nx/Example%202.prt">
+      <img src="https://img.shields.io/badge/Download-Part_File-blue?style=for-the-badge&logo=siemens" alt="Download Part File">
+    </a>
+  </p>
+</div>
 
-### 3. Design Example 3
-<p align="center">
+---
+
+### 3. Example 3
+<div align="center">
   <img src="Nx/images/Example%203.jpg" alt="Example 3" width="800">
-  <br>
-  <em><a href="Nx/Example%203.prt">⬇️ Download Part File</a></em>
-</p>
+  <p>
+    <a href="Nx/Example%203.prt">
+      <img src="https://img.shields.io/badge/Download-Part_File-blue?style=for-the-badge&logo=siemens" alt="Download Part File">
+    </a>
+  </p>
+</div>
 
 ---
 
