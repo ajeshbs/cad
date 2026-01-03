@@ -6,10 +6,9 @@ Welcome to the **Siemens NX** section of my CAD portfolio. Here you will find a 
 
 ## 🚀 Projects
 
-### 1. Design Concept 1
+### 1. Example 1
 <div align="center">
-  <img src="Example%201.jpg" alt="Example 1" width="800">
-  <p><em>Precision modeling and assembly.</em></p>
+  <img src="images/Example%201.jpg" alt="Example 1" width="800">
   <p>
     <a href="Example%201.prt">
       <img src="https://img.shields.io/badge/Download-Part_File-blue?style=for-the-badge&logo=siemens" alt="Download Part File">
@@ -19,10 +18,9 @@ Welcome to the **Siemens NX** section of my CAD portfolio. Here you will find a 
 
 ---
 
-### 2. Design Concept 2
+### 2. Example 2
 <div align="center">
-  <img src="Example%202.jpg" alt="Example 2" width="800">
-  <p><em>Advanced surface modeling and detailing.</em></p>
+  <img src="images/Example%202.jpg" alt="Example 2" width="800">
   <p>
     <a href="Example%202.prt">
       <img src="https://img.shields.io/badge/Download-Part_File-blue?style=for-the-badge&logo=siemens" alt="Download Part File">
@@ -32,10 +30,9 @@ Welcome to the **Siemens NX** section of my CAD portfolio. Here you will find a 
 
 ---
 
-### 3. Design Concept 3
+### 3. Example 3
 <div align="center">
-  <img src="Example%203.jpg" alt="Example 3" width="800">
-  <p><em>Complex geometry and structural analysis.</em></p>
+  <img src="images/Example%203.jpg" alt="Example 3" width="800">
   <p>
     <a href="Example%203.prt">
       <img src="https://img.shields.io/badge/Download-Part_File-blue?style=for-the-badge&logo=siemens" alt="Download Part File">
