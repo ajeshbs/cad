@@ -8,11 +8,11 @@ Welcome to my **CAD Portfolio**! This repository showcases my engineering design
 
 Explore the `Nx` folder for full part files and details.
 
-### 1. Example 1
+### 3. Example 3
 <div align="center">
-  <img src="Nx/images/Example%201.jpg" alt="Example 1" width="800">
+  <img src="Nx/images/Example%203.jpg" alt="Example 3" width="800">
   <p>
-    <a href="Nx/Example%201.prt">
+    <a href="Nx/Example%203.prt">
       <img src="https://img.shields.io/badge/Download-Part_File-blue?style=for-the-badge&logo=siemens" alt="Download Part File">
     </a>
   </p>
@@ -32,11 +32,11 @@ Explore the `Nx` folder for full part files and details.
 
 ---
 
-### 3. Example 3
+### 1. Example 1
 <div align="center">
-  <img src="Nx/images/Example%203.jpg" alt="Example 3" width="800">
+  <img src="Nx/images/Example%201.jpg" alt="Example 1" width="800">
   <p>
-    <a href="Nx/Example%203.prt">
+    <a href="Nx/Example%201.prt">
       <img src="https://img.shields.io/badge/Download-Part_File-blue?style=for-the-badge&logo=siemens" alt="Download Part File">
     </a>
   </p>
