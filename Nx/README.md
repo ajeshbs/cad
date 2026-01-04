@@ -6,6 +6,7 @@ Welcome to the **Siemens NX** section of my CAD portfolio. Here you will find a 
 
 ## 🚀 Projects
 
+<!-- PROJECTS_START -->
 ### 4. Example 4
 <div align="center">
   <img src="images/Example%204.jpg" alt="Example 4" width="800">
@@ -51,6 +52,7 @@ Welcome to the **Siemens NX** section of my CAD portfolio. Here you will find a 
     </a>
   </p>
 </div>
+<!-- PROJECTS_END -->
 
 ---
 

@@ -8,6 +8,7 @@ Welcome to my **CAD Portfolio**! This repository showcases my engineering design
 
 Explore the `Nx` folder for full part files and details.
 
+<!-- NX_PROJECTS_START -->
 ### 4. Example 4
 <div align="center">
   <img src="Nx/images/Example%204.jpg" alt="Example 4" width="800">
@@ -53,6 +54,7 @@ Explore the `Nx` folder for full part files and details.
     </a>
   </p>
 </div>
+<!-- NX_PROJECTS_END -->
 
 ---
 
