@@ -8,6 +8,18 @@ Welcome to my **CAD Portfolio**! This repository showcases my engineering design
 
 Explore the `Nx` folder for full part files and details.
 
+### 4. Example 4
+<div align="center">
+  <img src="Nx/images/Example%204.jpg" alt="Example 4" width="800">
+  <p>
+    <a href="Nx/Example%204.prt">
+      <img src="https://img.shields.io/badge/Download-Part_File-blue?style=for-the-badge&logo=siemens" alt="Download Part File">
+    </a>
+  </p>
+</div>
+
+---
+
 ### 3. Example 3
 <div align="center">
   <img src="Nx/images/Example%203.jpg" alt="Example 3" width="800">
