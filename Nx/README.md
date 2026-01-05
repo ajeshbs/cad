@@ -7,6 +7,18 @@ Welcome to the **Siemens NX** section of my CAD portfolio. Here you will find a 
 ## 🚀 Projects
 
 <!-- PROJECTS_START -->
+### 6. Example 6
+<div align="center">
+  <img src="images/Example%206.jpg" alt="Example 6" width="800">
+  <p>
+    <a href="Example%206.prt">
+      <img src="https://img.shields.io/badge/Download-Part_File-blue?style=for-the-badge&logo=siemens" alt="Download Part File">
+    </a>
+  </p>
+</div>
+
+---
+
 ### 5. Example 5
 <div align="center">
   <img src="images/Example%205.jpg" alt="Example 5" width="800">
