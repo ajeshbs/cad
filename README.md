@@ -4,7 +4,7 @@ Welcome to my **CAD Portfolio**! This repository showcases my engineering design
 
 ---
 
-## 🏎️ Siemens NX Designs
+##  Siemens NX Designs
 
 Explore the `Nx` folder for full part files and details.
 
